@@ -3,9 +3,6 @@
 #include "DynamicArray.h"
 
 int main() {
-    DynamicArray arrayy;
-
-
 
     DynamicArray array;
 
@@ -23,7 +20,6 @@ int main() {
     std::cout << "\nArray after removing the asteroid:" << std::endl;
     array.Print();
 
-    std::cout<<"Newly created ar"<<std::endl;
 
     std::cout<<"Cleared array"<<std::endl;
     array.Print();
